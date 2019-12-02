@@ -1,6 +1,7 @@
 # Full stack developer - angular weather app
-You are not timed and can take as long as you wish to complete this project. You'll be creating a new angular project, interacting with a third party API and displaying the response in a table. Finally you'll introduce some user friendly elements to the app.
-1. Create a new branch (name it after you) or create a publicly accessible repo. 
+You are not timed and can take as long as you wish to complete this task. You'll be creating a new angular project, using a third party API to fetch weather data, and then building an interface to allow for interaction with that data. Finally you'll add some unit tests.
+
+1. Create a new publicly accessible repo for this project. 
 2. Create a new angular project with the features specified in this document
 3. Submit your branch/repo for review
 
@@ -11,13 +12,10 @@ You are not timed and can take as long as you wish to complete this project. You
 4. Introduce configurable pagination (rows of 5, 10, 20)
 5. Introduce sortable columns
 6. Introduce a filter for searching by city name
-
-## Additional Tasks
-You may be asked to complete one or more of these additional tasks:
-
-* Write  or describe some unit tests
-* Create a graph that displays the median average global temperature and plot cities available in the API above/below the median
-* Try to use semantic and accessible HTML with SCSS or LESS
+7. Create a graph that displays the temperature for all cities.
+8. Include the the mean temperature of all cities on the graph
+7. Implement a unit test to confirm the pagination works
+8. Implement a unit test for the city filter
 
 # Open weather API
 
